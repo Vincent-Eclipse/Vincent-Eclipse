@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title description">
+  <title id="title">Development activity for Vincent-Eclipse</title>
+  <desc id="description">Rolling 30-day GitHub contribution metrics and language distribution across public owned repositories.</desc>
+  <style>
+    .eyebrow { fill: #4aa8ff; font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2px; }
+    .heading { fill: #f4f7fb; font: 600 24px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .caption { fill: #738093; font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .metric-value { fill: #f4f7fb; font: 600 25px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .metric-label { fill: #a7b2c2; font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .section { fill: #a7b2c2; font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1px; }
+    .language { fill: #a7b2c2; font: 400 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect x="1" y="1" width="898" height="328" rx="12" fill="#0b0e13" stroke="#273244" stroke-width="2"/>
+  <path d="M1 78H899" stroke="#172233"/>
+  <rect x="42" y="32" width="3" height="28" rx="1.5" fill="#168bff"/>
+  <text x="60" y="38" class="eyebrow">DEVELOPMENT</text>
+  <text x="60" y="62" class="heading">Last 30 days</text>
+  <text x="858" y="51" text-anchor="end" class="caption">GitHub activity</text>
+<g transform="translate(42 104)">
+      <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
+      <text x="16" y="31" class="metric-value">23</text>
+      <text x="16" y="59" class="metric-label">Contributions</text>
+    </g>
+<g transform="translate(246 104)">
+      <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
+      <text x="16" y="31" class="metric-value">6</text>
+      <text x="16" y="59" class="metric-label">Commits</text>
+    </g>
+<g transform="translate(450 104)">
+      <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
+      <text x="16" y="31" class="metric-value">0</text>
+      <text x="16" y="59" class="metric-label">Pull requests</text>
+    </g>
+<g transform="translate(654 104)">
+      <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
+      <text x="16" y="31" class="metric-value">6</text>
+      <text x="16" y="59" class="metric-label">Public repos</text>
+    </g>
+  <text x="42" y="218" class="section">PUBLIC REPOSITORY LANGUAGES</text>
+  <rect x="42" y="234" width="816" height="10" rx="5" fill="#172233"/>
+  <clipPath id="language-bar"><rect x="42" y="234" width="816" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#language-bar)"><rect x="42.00" y="234" width="768.88" height="10" fill="#3178c6"/><rect x="810.88" y="234" width="29.05" height="10" fill="#f34b7d"/><rect x="839.93" y="234" width="7.12" height="10" fill="#663399"/><rect x="847.05" y="234" width="5.31" height="10" fill="#f1e05a"/><rect x="852.36" y="234" width="3.80" height="10" fill="#000080"/></g>
+<g transform="translate(42 274)">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+      <text x="17" y="0" class="language">TypeScript 94%</text>
+    </g>
+<g transform="translate(204 274)">
+      <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
+      <text x="17" y="0" class="language">C++ 4%</text>
+    </g>
+<g transform="translate(366 274)">
+      <circle cx="5" cy="-4" r="5" fill="#663399"/>
+      <text x="17" y="0" class="language">CSS 1%</text>
+    </g>
+<g transform="translate(528 274)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+      <text x="17" y="0" class="language">JavaScript 1%</text>
+    </g>
+<g transform="translate(690 274)">
+      <circle cx="5" cy="-4" r="5" fill="#000080"/>
+      <text x="17" y="0" class="language">Lua &lt;1%</text>
+    </g>
+  <text x="42" y="310" class="caption">Contribution totals may include private activity in aggregate; private project details are never exposed.</text>
+</svg>
