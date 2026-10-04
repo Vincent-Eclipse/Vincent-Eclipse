@@ -18,12 +18,12 @@
   <text x="858" y="51" text-anchor="end" class="caption">GitHub activity</text>
 <g transform="translate(42 104)">
       <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
-      <text x="16" y="31" class="metric-value">23</text>
+      <text x="16" y="31" class="metric-value">25</text>
       <text x="16" y="59" class="metric-label">Contributions</text>
     </g>
 <g transform="translate(246 104)">
       <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
-      <text x="16" y="31" class="metric-value">6</text>
+      <text x="16" y="31" class="metric-value">8</text>
       <text x="16" y="59" class="metric-label">Commits</text>
     </g>
 <g transform="translate(450 104)">
@@ -39,7 +39,7 @@
   <text x="42" y="218" class="section">PUBLIC REPOSITORY LANGUAGES</text>
   <rect x="42" y="234" width="816" height="10" rx="5" fill="#172233"/>
   <clipPath id="language-bar"><rect x="42" y="234" width="816" height="10" rx="5"/></clipPath>
-  <g clip-path="url(#language-bar)"><rect x="42.00" y="234" width="768.88" height="10" fill="#3178c6"/><rect x="810.88" y="234" width="29.05" height="10" fill="#f34b7d"/><rect x="839.93" y="234" width="7.12" height="10" fill="#663399"/><rect x="847.05" y="234" width="5.31" height="10" fill="#f1e05a"/><rect x="852.36" y="234" width="3.80" height="10" fill="#000080"/></g>
+  <g clip-path="url(#language-bar)"><rect x="42.00" y="234" width="766.91" height="10" fill="#3178c6"/><rect x="808.91" y="234" width="28.98" height="10" fill="#f34b7d"/><rect x="837.89" y="234" width="7.38" height="10" fill="#f1e05a"/><rect x="845.27" y="234" width="7.10" height="10" fill="#663399"/><rect x="852.37" y="234" width="3.79" height="10" fill="#000080"/></g>
 <g transform="translate(42 274)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text x="17" y="0" class="language">TypeScript 94%</text>
@@ -49,12 +49,12 @@
       <text x="17" y="0" class="language">C++ 4%</text>
     </g>
 <g transform="translate(366 274)">
-      <circle cx="5" cy="-4" r="5" fill="#663399"/>
-      <text x="17" y="0" class="language">CSS 1%</text>
-    </g>
-<g transform="translate(528 274)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
       <text x="17" y="0" class="language">JavaScript 1%</text>
+    </g>
+<g transform="translate(528 274)">
+      <circle cx="5" cy="-4" r="5" fill="#663399"/>
+      <text x="17" y="0" class="language">CSS 1%</text>
     </g>
 <g transform="translate(690 274)">
       <circle cx="5" cy="-4" r="5" fill="#000080"/>
