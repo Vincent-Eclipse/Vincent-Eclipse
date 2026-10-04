@@ -18,12 +18,12 @@
   <text x="858" y="51" text-anchor="end" class="caption">GitHub activity</text>
 <g transform="translate(42 104)">
       <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
-      <text x="16" y="31" class="metric-value">25</text>
+      <text x="16" y="31" class="metric-value">26</text>
       <text x="16" y="59" class="metric-label">Contributions</text>
     </g>
 <g transform="translate(246 104)">
       <rect width="186" height="82" rx="8" fill="#111722" stroke="#273244"/>
-      <text x="16" y="31" class="metric-value">8</text>
+      <text x="16" y="31" class="metric-value">9</text>
       <text x="16" y="59" class="metric-label">Commits</text>
     </g>
 <g transform="translate(450 104)">
