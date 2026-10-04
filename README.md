@@ -1,8 +1,16 @@
+<div align="center">
+
 # Vincent
+
+**Software · Web · Automation**
 
 Self-taught developer from Germany building software, web experiences and automation.
 
-Currently building projects under [CENVALO](https://eclipse-dev.de).
+Building projects under [CENVALO](https://eclipse-dev.de).
+
+[CENVALO](https://eclipse-dev.de) · [TikTok](https://www.tiktok.com/@cenvaloservices)
+
+</div>
 
 ## Selected work
 
@@ -30,12 +38,33 @@ Server-side duty tracking with ACE permissions, persistent sessions and restart 
 
 `Lua · FiveM`
 
-## Tech
+## Development
 
-TypeScript · JavaScript · React · Node.js · Electron · SQLite · Python · Lua · C++
+<picture>
+  <img src="./generated/development.svg" alt="Rolling 30-day GitHub development activity and public repository language distribution" width="100%">
+</picture>
+
+<details>
+<summary>View development activity details</summary>
+
+The figures use GitHub's rolling 30-day contribution totals. Language distribution is calculated only from public repositories owned by this account, excluding forks. Private repository names and contents are never included.
+
+</details>
+
+## Current focus
+
+- **CENVALO** — Building internal tools and practical development workflows.
+- **Project Hub** — Desktop tooling around project context and development sessions.
+- **Automation** — Tools for development, Discord workflows and infrastructure tasks.
+
+## Tech and workflow
+
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `PostgreSQL` `Electron` `SQLite` `Python` `Lua` `C++`
+
+Modern AI tools support my workflow across ideation, planning, design exploration and development.
 
 Some repositories are focused, public-safe extracts from larger private projects.
 
-## Links
+---
 
-[CENVALO](https://eclipse-dev.de) · [TikTok](https://www.tiktok.com/@cenvaloservices)
+**[CENVALO](https://eclipse-dev.de)** — Building useful software, web experiences and automation.
