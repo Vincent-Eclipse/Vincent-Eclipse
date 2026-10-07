@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   update:
-    if: github.repository == 'Vincent-Eclipse/Vincent-Eclipse'
+    if: github.repository == 'Vincent-Cenvalo/Vincent-Cenvalo'
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -25,7 +25,7 @@ jobs:
       - name: Generate development card
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          PROFILE_LOGIN: Vincent-Eclipse
+          PROFILE_LOGIN: Vincent-Cenvalo
         run: node scripts/generate-profile.mjs
 
       - name: Check for changes

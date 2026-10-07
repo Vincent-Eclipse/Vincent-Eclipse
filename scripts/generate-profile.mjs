@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
-const login = process.env.PROFILE_LOGIN || process.env.GITHUB_REPOSITORY_OWNER || 'Vincent-Eclipse'
+const login = process.env.PROFILE_LOGIN || process.env.GITHUB_REPOSITORY_OWNER || 'Vincent-Cenvalo'
 const token = process.env.GITHUB_TOKEN
 
 if (!token) {
